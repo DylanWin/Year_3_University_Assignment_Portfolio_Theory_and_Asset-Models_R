@@ -2,8 +2,10 @@ Assignment 1 Description
 
 -Question provides 'StudentBudgetSetFn' function which contains a list of items and returns a list of items 
 based on input number (for my R code it would be my student number)
+
 -Question requires constructing upper and lower contoour list of items returend from the function mentioned 
 based on weak preferences of one item over another to be written in a matrix form based on input of users 
 on their own self preferencethen and thus determining if it exhibits property of weak preference relation.
+
 -Finally, question requires a plot of utility function of all items based on lower contour list of items 
 and thus returning utility of each item as vectors.
