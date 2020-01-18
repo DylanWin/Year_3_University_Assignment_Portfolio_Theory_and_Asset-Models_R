@@ -1,0 +1,17 @@
+Assignment 2 Description
+
+-> Question requires:
+1) Calculating weights of portfolio with specifications.
+
+2) Drawing an effeciency frontier graph based on Two Fund Separation Theorem by ranging between given
+minimum and maximum expected return of a portfolio consists of 4 different assets.
+
+3) Calculating weights of tendency portfolio, using the weights find the portfolio's expected return 
+and standard deviation.
+
+4) Drawing a Capital Market Line (CML, the tendency line) in the graph of effeciency frontier.
+
+5) Find the weights of the globally minimum variance portfolio.
+
+6) Solve and find weights of the portfolio by using Lagrange equation, also writing down the associated 
+system of linear equations.
