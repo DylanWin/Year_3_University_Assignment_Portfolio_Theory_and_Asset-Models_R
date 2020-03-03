@@ -1,5 +1,4 @@
 # Portfolio Thoery and Asset model 
-# H00280633
 # Assignment 2 R code
 # Note: Plese ensure latest version of Rtools to prevent error dueing package installation
 
